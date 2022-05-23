@@ -6,7 +6,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var eded1 = 0;
+            var eded2 = 0;
+            var toplam = 0;
+
         }
     }
 }
